@@ -1,0 +1,8 @@
+list disk
+select disk 0
+list part
+select part 4
+remove
+assign letter=I
+list volume
+exit
